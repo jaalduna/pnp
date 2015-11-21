@@ -12,6 +12,7 @@ There are several linear motion rails types. The one we are going to test here i
 
 ### Manufacturers
 There are several rectangular-miniature-linear motion rail/guide manufacturers such as
+
 1. THK
 2. Tomson linear (https://www.thomsonlinear.com)
 3. HIWIN (www.hiwin.com)
