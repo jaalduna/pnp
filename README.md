@@ -16,3 +16,5 @@ There are several rectangular-miniature-linear motion rail/guide manufacturers s
 1. THK
 2. Tomson linear (https://www.thomsonlinear.com)
 3. HIWIN (www.hiwin.com)
+
+In particular, the line mgn07h from HIWIN is available on ebay trough the vendor "motion constrained" (https://motionconstrained.com/). 
